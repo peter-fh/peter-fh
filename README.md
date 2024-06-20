@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on: my own source control system
-- 🌱 I’m currently learning: golang, htmx
-- 💬 Ask me about: chess engine algorithms
+- 🔭 I’m currently working on: My own source control system
+- 🌱 I’m currently learning: Golang, HTMX
+- 💬 Ask me about: Chess engine algorithms, or my neovim config (neovim btw)
 - 📫 How to reach me: p.felty.howe@gmail.com
 <!--
 **peter-fh/peter-fh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
