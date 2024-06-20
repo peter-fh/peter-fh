@@ -3,15 +3,15 @@
 - Codesync, a custom source control system
 - Open-Ed, an open source course website
 
-# 🌱 I'm Learning :
+### 🌱 I'm Learning :
 - Golang
 - HTMX
 - Sockets and HTTP
 
-# 💬 Ask me about:
+### 💬 Ask me about:
 - My neovim config (neovim btw)
 
-# 📫 Contact
+### 📫 Contact
 - Email: p.felty.howe@gmail.com
   
 <!--
