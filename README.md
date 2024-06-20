@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🔭 Current Projects 
+### 🔭 Current Projects 
 - Codesync, a custom source control system
 - Open-Ed, an open source course website
 
