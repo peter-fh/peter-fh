@@ -1,12 +1,13 @@
 ## Hi there 👋
 ### 🔭 Current Projects 
-- Codesync, a custom source control system
+- Sink, a custom source control system
 - Open-Ed, an open source course website
 
 ### 🌱 I'm Learning :
 - Golang
 - HTMX
 - Sockets and HTTP
+- Interpreters and Compilers
 
 ### 💬 Ask me about:
 - My neovim config (neovim btw)
