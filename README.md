@@ -15,6 +15,7 @@
 ### 📫 Contact
 - Email: p.felty.howe@gmail.com
 
+### Language Statistics:
 
 <!--START_SECTION:waka-->
 
