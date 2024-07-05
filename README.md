@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2024 - To: 03 July 2024
+From: 27 June 2024 - To: 04 July 2024
 
-Total Time: 11 hrs 53 mins
+Total Time: 14 hrs 51 mins
 
-Python      6 hrs 38 mins   █████████████▓░░░░░░░░░░░   54.87 %
-Go          3 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.03 %
-Lua         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-tmux        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Text        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Python      5 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.53 %
+Go          4 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.44 %
+Java        2 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Lua         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown    41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
