@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2024 - To: 05 July 2024
+From: 29 June 2024 - To: 06 July 2024
 
-Total Time: 10 hrs 18 mins
+Total Time: 12 hrs 36 mins
 
-Go          5 hrs 7 mins    ████████████▒░░░░░░░░░░░░   48.73 %
-Java        2 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-Lua         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Markdown    41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Python      26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Go          6 hrs 33 mins   ████████████▓░░░░░░░░░░░░   51.15 %
+Java        2 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+Lua         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Markdown    41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Python      36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
