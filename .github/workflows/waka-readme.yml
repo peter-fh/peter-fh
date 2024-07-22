@@ -24,7 +24,7 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           LANG_COUNT: 5 # optional
           SHOW_TIME: false # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
