@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 🔭 Current Projects 
 - Sink, a custom source control system
-- Open-Ed, an open source course website
+<!-- - Open-Ed, an open source course website-->
 
 ### 🌱 I'm Learning :
 - Golang
