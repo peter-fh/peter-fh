@@ -20,13 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 29 August 2024
+From: 23 August 2024 - To: 30 August 2024
 
-C++                           ===================------   77.81 %
-Text                          ===----------------------   10.80 %
-TypeScript                    =------------------------   04.35 %
-C                             =------------------------   04.02 %
-Go                            =------------------------   02.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
