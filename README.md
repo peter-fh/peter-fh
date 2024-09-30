@@ -20,11 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2024 - To: 28 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
-C++                           ================---------   64.38 %
-C                             ======-------------------   25.13 %
-Objective-C                   ===----------------------   10.49 %
+C++                           =========================   98.24 %
+Objective-C                   -------------------------   01.76 %
 ```
 
 <!--END_SECTION:waka-->
