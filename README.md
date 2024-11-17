@@ -20,11 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2024 - To: 15 November 2024
+From: 09 November 2024 - To: 16 November 2024
 
-C++                   ====================-----   78.76 %
-Go                    ====---------------------   15.83 %
-C                     =------------------------   05.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
