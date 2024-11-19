@@ -20,9 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-No activity tracked
+Python                       ============-------------   47.03 %
+Text                         ======-------------------   23.20 %
+HTML                         =------------------------   05.95 %
+JavaScript                   =------------------------   05.63 %
 ```
 
 <!--END_SECTION:waka-->
