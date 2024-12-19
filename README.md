@@ -20,10 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Lua                    ========================-   96.46 %
-Text                   =------------------------   03.54 %
+Lua                    =========================   98.81 %
+Text                   -------------------------   01.19 %
 ```
 
 <!--END_SECTION:waka-->
